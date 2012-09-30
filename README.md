@@ -8,6 +8,7 @@ Please be aware that I've intentionally left this theme with the original name a
 ## Prerequisites
 
 -	A Powerline-patched font, as per the [original gist's documentation](https://gist.github.com/3712874)
+-	If you have never used [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh/) and you're using [YADR](https://github.com/skwp/dotfiles), it's also highly recommended to get the [git.zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/git.zsh) file from Oh-My-Zsh and put it in ~/.yadr/zsh/
 
 ## Installation - [Prezto](https://github.com/sorin-ionescu/prezto)
 
