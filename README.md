@@ -29,4 +29,4 @@ Please be aware that I've intentionally left this theme with the original name a
 
 ## Preview/Screenshot
 
-![agnoster for Prezto Screenshot](https://github.com/digitalformula/zsh.prompts/blob/gh-pages/img/screenshot.jpg)
+![agnoster for Prezto Screenshot](https://raw.github.com/digitalformula/zsh.prompts/gh-pages/img/screenshot.jpg)
