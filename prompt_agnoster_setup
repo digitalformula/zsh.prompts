@@ -111,7 +111,7 @@ prompt_hostname() {
   prompt_segment green black "$hostname"
 }
 
-## Main prompt (Old version, includes currect diretory)
+## Main prompt (Old version, includes currect directory)
 build_prompt_old() {
   RETVAL=$?
   prompt_status
