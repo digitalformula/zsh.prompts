@@ -8,7 +8,10 @@ Please be aware that I've intentionally left this theme with the original name a
 ## Prerequisites
 
 -	A Powerline-patched font, as per the [original gist's documentation](https://gist.github.com/3712874)
--	If you have never used [Oh-My-Zsh](https://github.com/robbyrussell/oh-my-zsh/) and you're using [YADR](https://github.com/skwp/dotfiles), it's also highly recommended to get the [git.zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/git.zsh) file from Oh-My-Zsh and put it in ~/.yadr/zsh/
+-	For YADR, [git.zsh](https://github.com/robbyrussell/oh-my-zsh/blob/master/lib/git.zsh) file from Oh-My-Zsh.  You can get a copy of this file from the [downloads page associated with this repository](https://github.com/digitalformula/zsh.prompts/downloads).  Extract the archive and put the contents in ~/.yadr/zsh.
+-	For YADR, a copy of the `get-short-path` function from the [downloads page](https://github.com/digitalformula/zsh.prompts/downloads).  Extract the archive and put the contents in ~/.yadr/zsh.
+
+Please note that I can't cover all possible variations of ZSH-modifications projects.  If you don't use YADR, you'll need to make sure the above scripts are loaded, preferably through ~/.zpreztorc.
 
 ## Installation - [Prezto](https://github.com/sorin-ionescu/prezto)
 
