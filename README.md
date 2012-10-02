@@ -13,6 +13,8 @@ Please be aware that I've intentionally left this theme with the original name a
 
 Please note that I can't cover all possible variations of ZSH-modifications projects.  If you don't use YADR, you'll need to make sure the above scripts are loaded, preferably through ~/.zpreztorc.
 
+For example, `source git-omz.zsh` and/or `source get-short-path.zsh`.
+
 ## Installation - [Prezto](https://github.com/sorin-ionescu/prezto)
 
 -	Grab prompt_agnoster_setup from this repo
