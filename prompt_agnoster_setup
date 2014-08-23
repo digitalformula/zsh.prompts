@@ -81,7 +81,7 @@ prompt_dir_old() {
 }
 
 prompt_dir() {
-  prompt_segment blue black `get_short_path`
+  prompt_segment blue black "`get_short_path`"
 }
 
 # Status:
